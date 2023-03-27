@@ -7,6 +7,17 @@ header {
 main {
     width: 900px;
     margin: auto;
+    font-size: 18px;
+}
+
+#about {
+    margin-bottom: 20px;
+    border: none;
+}
+
+.photo {
+    float: left;
+    margin-right: 20px;
 }
 
 h1 {
@@ -42,5 +53,17 @@ h4 {
 
 section {
     border-bottom: 1px solid;
+    padding-bottom: 20px;
+}
+
+aside {
+    line-height: 10px;
+    float: left;
+    margin-right: 20px;
+
+    padding: 10px;
+
+    background-color: black;
+    color: white;
 }
 
